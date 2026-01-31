@@ -1,0 +1,17 @@
+A
+
+www
+
+34.111.179.208
+
+
+TXT 
+
+replit-verify=4be8ff2d-6edc-42da-bf9c-092ec48a9fe5
+
+CName Name /Alias
+
+zb22716903
+
+CName Value /Points to/destination
+zmverify.zoho.com.au
